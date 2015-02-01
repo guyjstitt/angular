@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Docehededron",
+		"price": 2.95,
+		"description": "Stuff",
+		"canPurchase": true,
+		"soldOut": true,
+		"images": [
+			{
+				"full": "image-01-full.jpg",
+				"thumb": "image-01-thumb.jpg"
+			},
+			{
+				"full": "image-02-full.jpg",
+				"thumb": "image-02-thumb.jpg"
+			}
+
+		],
+		"review": [ 
+			{
+				"stars": 5,
+				"body": "I like this product",
+				"author": "guy@gmail.com"
+			}, 
+			{
+				"stars": 3,
+				"body": "I dont like this product",
+				"author": "someguy@gmail.com"
+			}
+		]
+	},
+	{
+		"name": "Chocobo",
+		"price": 4.95,
+		"description": "Chocobo stuff",
+		"canPurchase": true,
+		"soldOut": true,
+		"images": [
+			{
+				"full": "image-01-full.jpg",
+				"thumb": "image-01-thumb.jpg"
+			},
+			{
+				"full": "image-02-full.jpg",
+				"thumb": "image-02-thumb.jpg"
+			}
+		]
+	}
+]
